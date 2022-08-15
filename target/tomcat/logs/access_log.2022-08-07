@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [07/Aug/2022:19:49:47 +0800] "GET /UserLogin HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [07/Aug/2022:19:49:47 +0800] "GET /UserLogin/ HTTP/1.1" 200 52 http-bio-8080-exec-3 23
+0:0:0:0:0:0:0:1 - - [07/Aug/2022:19:49:50 +0800] "GET /UserLogin/login.html HTTP/1.1" 304 - http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [07/Aug/2022:19:49:55 +0800] "POST /UserLogin/loginServlet HTTP/1.1" 200 12 http-bio-8080-exec-5 357
